@@ -1,0 +1,34 @@
+body{
+    background-color: lime;
+}
+
+.container{
+    width: 400px;
+    
+    align-items: center;
+    background-color: lightskyblue;
+}
+.review__items {
+    align-items: center;
+    justify-content: space-evenly;
+    width: 250px;
+    padding: 10px;
+    align-items: center;
+}
+
+img{
+   height: 250px;
+    width: 250px;
+    border-radius: 5px;
+   
+    }
+.review__button button {
+    color: rgb(192, 229, 192);
+    background: green;
+    font-weight: bold;
+}
+
+.review__items {
+    display: none;
+}
+
