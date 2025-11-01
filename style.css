@@ -25,16 +25,16 @@
     height: 250px;
     width: 250px;
     border-radius: 5px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 4px 15px;
+    box-shadow:border-box 5px 5px 5px #32917d;
 }
 
 .review_items h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: poppins, sans-serif;
     font-size: 20px;
 }
 
 .review_items p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: poppins, sans-serif;
     font-size: 14px;
 }
 
@@ -44,7 +44,7 @@
 }
 
 .review_button button {
-    color: rgb(192, 229, 192);
+    color: rgb(181, 229, 192);
     background: green;
     font-weight: bold;
 }
